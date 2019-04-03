@@ -1,4 +1,4 @@
-
+[![Build Status](https://consultorinternet.visualstudio.com/ContosoLaunch/_apis/build/status/fisica3.ContosoAir?branchName=master)](https://consultorinternet.visualstudio.com/ContosoLaunch/_build/latest?definitionId=23&branchName=master)
 
 
 # Microsoft.Github CI Demo
